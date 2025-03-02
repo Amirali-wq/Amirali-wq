@@ -1,7 +1,5 @@
 ## Hi there👋
 
------
-
 ```javascript
 const user = {
     id: 202,
@@ -16,6 +14,9 @@ const user = {
 };
 console.log("Hello, World! 🌎");
 
+-----
+
+"Enthusiastic about expanding knowledge"
 
 
 
