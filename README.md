@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 
 <h2>who is me?</h2> 
 
