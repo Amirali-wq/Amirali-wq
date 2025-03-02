@@ -1,5 +1,5 @@
 ## Hi there 👋 i'm Amirali
-- I'm a JavaScript Developer 
+I'm a JavaScript Developer 
 <!--
 **Amirali-wq/Amirali-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
