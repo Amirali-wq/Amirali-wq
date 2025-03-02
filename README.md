@@ -1,6 +1,5 @@
-## Hi there 👋
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png)
-
+## Hi there 👋 i'm Amirali
+- I'm a JavaScript Developer 
 <!--
 **Amirali-wq/Amirali-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
