@@ -1,5 +1,21 @@
-## Hi there 👋 i'm Amirali
-I'm a JavaScript Developer 
+## Hi there , i'm Amirali👋
+
+```javascript
+const user = {
+    id: 202,
+    status: "Accepted ✅",
+    data: {
+        fullName: "Amirali Mosayebi",
+        birthday: "April 22",
+        alias: "<Ctrl+Z>",
+        skills: ["Tailwind", "JS", "Node.js"],
+        availability: "Always in Dark Mode 🌑",
+        quote: "while(alive) { eat(); code(); sleep(); repeat(); }"
+    }
+};
+
+console.log("Hello, World! 🌎");
+
 <!--
 **Amirali-wq/Amirali-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
