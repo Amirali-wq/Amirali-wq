@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 
-<h2>who is me?</h2> 
+<h2>Who am I?</h2> 
 
 ```javascript
 const user = {
