@@ -10,7 +10,7 @@ const user = {
         fullName: "Amirali Mosayebi",
         birthday: "April 22",
         alias: "<Ctrl+Z>",
-        skills: ["Tailwind", "JS", "Node.js"],
+        skills: ["Tailwind", "JS", "React"],
         quote: "while(alive) { eat(); code(); sleep(); repeat(); }"
     }
 };
